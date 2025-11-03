@@ -1,0 +1,10 @@
+### GET request to example server
+PUT http://localhost:4000/patients/2be1b9d8-d069-4bcf-a2fb-dc59cd4ec8bd
+Content-Type: application/json
+
+{
+  "name": "Rajeev Rai",
+  "dateOfBirth": "1997-11-07",
+  "registrationDate": "2025-08-09"
+}
+###
